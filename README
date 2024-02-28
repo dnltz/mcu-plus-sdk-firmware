@@ -1,0 +1,10 @@
+This repository contains example MCU binaries based on TI's MCU Plus SDK.
+
+These examples do a heartbeat blink on the MCU LED.
+
+Supported products:
+- AM62x
+- AM62ax
+- AM64x
+
+For more information see https://docs.phytec.com/
